@@ -13,7 +13,6 @@ This repository contains all the materials and assignments from my data science 
   - [Features](#features)
   - [Dependencies](#dependencies)
   - [Contributors](#contributors)
-  - [License](#license)
 
 ## Folder Structure
 The repository is organized into the following folders:
